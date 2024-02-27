@@ -13,5 +13,6 @@ public class Kata {
 
 
         return (x > 0) ? -x : x;
+
     }
 }
