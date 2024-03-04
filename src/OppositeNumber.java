@@ -5,5 +5,4 @@ public class OppositeNumber {
         return  -number;
     }
 
-
 }
