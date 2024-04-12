@@ -1,6 +1,7 @@
 package Kata_8;
 
 import javax.swing.*;
+import java.util.Arrays;
 //String repeat
 /*
 public class Solution {
@@ -8,8 +9,12 @@ public class Solution {
         return string.repeat(repeat);
     }
 
-}*/
-/*class Solution {
+}
+*/
+
+//SUM OF POSITIVE
+/*
+class Solution {
     public static int sum(int[] arr){
         int sum = 0;
         for (int num : arr) {
@@ -17,9 +22,25 @@ public class Solution {
         }
     return sum;
     }
+ */
 
+//Find the smallest integer in the array
+/*
+import java.util.Arrays;
+public class SmallestIntegerFinder {
+    public static int findSmallestInt(int[] args) {
+        Arrays.sort(args);
 
-
+        return args[0];
+    }
 }*/
+
+
+
+
+
+
+
+
 
 
