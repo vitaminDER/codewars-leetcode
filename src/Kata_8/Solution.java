@@ -115,6 +115,17 @@ public class Kata {
 }
 */
 
+//REVERSED STRINGS
+/*
+public class Kata {
+
+    public static String solution(String str) {
+        return new StringBuilder(str).reverse().toString();
+    }
+
+}
+*/
+
 
 
 
