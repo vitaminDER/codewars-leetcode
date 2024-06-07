@@ -140,6 +140,21 @@ public class GrassHopper {
 }
 */
 
+//Century From Year
+/*
+public class Solution {
+    public static int century(int number) {
+        int count = 0;
+
+        for(int i = 0; i < number; i+=100) {
+            if(count < number) {
+                count++;
+            }
+        }
+        return count;
+    }
+}
+*/
 
 
 
