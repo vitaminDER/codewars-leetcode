@@ -1,7 +1,5 @@
-package Kata_8;
+package codewars.kata_8;
 
-import javax.swing.*;
-import java.util.Arrays;
 //String repeat
 /*
 public class Solution {
@@ -60,7 +58,7 @@ public class BasicOperations {
 
 //RETURNING STRINGS
 /*
-class Kata8 {
+class Kata_8.Kata8 {
     public static String greet(String name) {
         return "Hello, " + name + " how are you doing today?";
     }
@@ -104,7 +102,7 @@ public class Calculate {
 
 //Square(n)Sum
 /*
-public class Kata {
+public class Kata_8.Kata {
     public static int squareSum(int[] n) {
         int sum = 0;
         for(int num : n) {
@@ -117,7 +115,7 @@ public class Kata {
 
 //REVERSED STRINGS
 /*
-public class Kata {
+public class Kata_8.Kata {
 
     public static String solution(String str) {
         return new StringBuilder(str).reverse().toString();

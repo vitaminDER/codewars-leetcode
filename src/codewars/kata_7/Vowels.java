@@ -1,7 +1,8 @@
-package Kata_7;
+package codewars.kata_7;
 
-//Vowel Count
 /*
+Vowel Count
+ */
 public class Vowels {
 
     public static int getCount(String str) {
@@ -17,4 +18,3 @@ public class Vowels {
         return count;
     }
 }
-*/

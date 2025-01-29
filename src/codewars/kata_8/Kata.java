@@ -1,3 +1,5 @@
+package codewars.kata_8;
+
 public class Kata {
 
 
